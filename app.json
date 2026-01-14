@@ -1,0 +1,16 @@
+{
+    "Email":{
+        "sender":"string",
+        "receiver":"string",
+        "subject":"string",
+        "body":"string"
+    },
+    "Browser":{
+        "query":"string",
+        "context":"string"
+    },
+    "FileSearch":{
+        "filename":"string",
+        "path":"string"
+    }
+}
