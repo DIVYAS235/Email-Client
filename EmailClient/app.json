@@ -1,0 +1,10 @@
+{
+    "Email": {
+        "sender": "user@example.com",
+        "receiver": "client@example.com",
+        "subject": "Draft a subject....",
+        "body": "Email body"
+    }
+}
+    
+     
